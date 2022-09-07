@@ -1,0 +1,4 @@
+Lua스크립트에서 콜론(:)으로 된 함수는 내부에 객체 자신을 참조하는 self라는 변수를 자동으로 생성한다.
+예)
+Object.Method(Object, parameter1, paremeter2) 은
+Object:Method(parameter1, paremeter2) 와 같다.
