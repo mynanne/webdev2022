@@ -1,0 +1,3 @@
+자바의 Integer과 int의 차이
+int는 primitive 자료형이다. 산술 연산이 가능하고 null로 초기화가 불가능하다.
+Integer은 객체인 Wrapper클래스이다. Unboxing을 하지 않으면 산술 연산이 불가능 하지만, null 값을 처리할 수 있다.
